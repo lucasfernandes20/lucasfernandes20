@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning -> Node
 - 📫 How to reach me -> reach me at the following email: lucas.h.fernandes.reis@gmail.com
-- 😄 Pronouns -> Ele/dele - He/Him
 
  <div>
   <a href="https://github.com/lucasfernandes20">
