@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Fernandes
 
-- 🌱 I’m currently learning -> Python // NestJS
+- 🌱 I’m currently learning -> Python
 - 📫 How to reach me -> reach me at the following email: lucas.h.fernandes.reis@gmail.com
-- 💼 I'm a full stack developer at 6Place
+- 💼 I'm a front-end developer at TripleAI
 
  <div>
   <a href="https://github.com/lucasfernandes20">
