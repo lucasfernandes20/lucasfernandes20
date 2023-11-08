@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Fernandes
 
-- 🌱 I’m currently learning -> Python
+- 🌱 I’m currently learning -> Python / AWS
 - 📫 How to reach me -> reach me at the following email: lucas.h.fernandes.reis@gmail.com
-- 💼 I'm a front-end developer at TripleAI
+- 💼 I'm currently looking for work
 
  <div>
   <a href="https://github.com/lucasfernandes20">
