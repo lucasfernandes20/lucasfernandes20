@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Fernandes
+## Hello! I'm Lucas Fernandes
 
 - 🌱 I’m currently learning -> Python / AWS
 - 📫 How to reach me -> reach me at the following email: lucas.h.fernandes.reis@gmail.com
