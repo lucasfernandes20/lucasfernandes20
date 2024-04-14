@@ -4,11 +4,6 @@
 - 📫 How to reach me -> reach me at the following email: lucas.h.fernandes.reis@gmail.com
 - 💼 I'm currently looking for work
 
- <div>
-  <a href="https://github.com/lucasfernandes20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfernandes20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernandes20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
