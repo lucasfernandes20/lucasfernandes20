@@ -1,6 +1,6 @@
 ## Hello! I'm Lucas Fernandes
 
-- 🌱 I’m currently learning -> Python / AWS
+- 🌱 I’m currently learning -> Python / Angular
 - 📫 How to reach me -> reach me at the following email: lucas.h.fernandes.reis@gmail.com
 - 💼 I'm currently looking for work
 
